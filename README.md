@@ -34,7 +34,7 @@ You can view my certificate of completion [here](https://www.udemy.com/certifica
 
 - HTML
 - CSS
-- JavaScript: The core game logic and functionality are implemented using JavaScript. This includes:
+- JavaScript: The functionalities are implemented using JavaScript. This includes:
 
 - DOM Manipulation: To create, modify, and delete elements on the webpage in response to user interactions.
 - Event Handling: To capture user events and trigger specific actions and animations.
